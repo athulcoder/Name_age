@@ -1,4 +1,3 @@
-
 //code
 #include<iostream>
 
